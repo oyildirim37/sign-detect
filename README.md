@@ -1,3 +1,3 @@
 ## Präsentation
 
-[Echtzeit-Erkennung von Gebärden](Echtzeit-Erkennung%20von%20Gebärden.pptx)
+[Echtzeit-Erkennung von Gebärden ansehen](Echtzeit-Erkennung%20von%20Gebärden.pdf)
