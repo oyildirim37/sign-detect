@@ -19,4 +19,6 @@
 ![Folie 3](Präsi/Echtzeit-Erkennung%20von%20Gebärden-17.png)
 ![Folie 3](Präsi/Echtzeit-Erkennung%20von%20Gebärden-18.png)
 ![Folie 19](Präsi/Echtzeit-Erkennung%20von%20Gebärden-19.png)
+
+## Auszug aus der "readPickle.py"; Pickle-Dateien können nur mit Python eingelesenen werden.
 ![Auszug aus Pickle](Präsi/Auszug.png)
